@@ -1,1 +1,3 @@
 # AlgoLaba
+
+variant 21
